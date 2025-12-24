@@ -41,3 +41,5 @@ BIALTY exists to standardize and automate ALT text generation while keeping a cl
 ## Author
 
 BIALTY is developed and maintained by Gautier Dorval (Pagup ecosystem).
+
+– Mirror repository (Codeberg): https://codeberg.org/gautierdorval/bialty
